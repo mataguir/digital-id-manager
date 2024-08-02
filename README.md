@@ -50,7 +50,7 @@ PORT=5000
 
 Inicia el servidor del backend:
 
-    npm run dev
+    npm start
 
 ### Configuración del Frontend
 
@@ -65,7 +65,7 @@ Instala las dependencias:
 
 Inicia la aplicación React:
 
-npm start
+    npm start
 
 
 ## Uso
@@ -97,13 +97,13 @@ Una vez logueado veo mi perfil.
 
 Para ejecutar las pruebas:
 
-npm test
+    npm test
 
 ### Backend
 
 Para ejecutar las pruebas:
 
-npm test
+    npm test
 
 ## Tecnologías Utilizadas
 Frontend: React, Redux Toolkit, React Router, 
